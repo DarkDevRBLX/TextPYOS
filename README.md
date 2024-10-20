@@ -38,7 +38,7 @@ BEFORE INSTALLING TextPYOS MAKE SURE:
 
 - Then, run the command "pyinstaller --onefile yourscript.py" (Replace yourscript.py with whatever version of TextPYOS you're trying to download.)
 
-- Locate the file "dist" (if you cannot try "pyinstaller yourscript.py" (Replace yourscript.py with whatever version of TextPYOS you're trying to download.)
+- Locate the file "dist" (if you cannot find it, try "pyinstaller yourscript.py" (Replace yourscript.py with whatever version of TextPYOS you're trying to download.)
 
 - Execute the .exe
 
