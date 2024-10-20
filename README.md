@@ -6,6 +6,8 @@ TextPYOS is a simpler version of older text-based operating systems. (Not an act
 
 This project is currently in-development, but updates are likely to be infrequent due to it being developed in my free time.
 
+Any created versions will be uploaded. All of the uploaded versions can be found under "Python Source" to make it more organized.
+
 ---LICENSE---
 
 TextPYOS is open-source, under the MIT license.
