@@ -26,7 +26,7 @@ Download the latest version of TextPYOS from [TextPYOS-DarkDev](https://github.c
 Open terminal and run the command "pip install pyinstaller"
 Then, run the command "pyinstaller --onefile TextPYOSV1.1.py" (Or whatever version you are downloading.)
 Locate the file "dist"
-Execute the .exe
+and execute the .exe
 
 ---THANK YOU---
 Thank you for taking interest in TextPYOS! We hope to create a user-friendly experience and to inspire others to take interest.
