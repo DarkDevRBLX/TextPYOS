@@ -19,6 +19,7 @@ For more information, please see the [MIT LICENSE](LICENSE)
 If you have any questions, problems, or suggestions please feel free to reach out to me!
 
 GitHub: [My profile](https://github.com/DarkDevRBLX)
+
 Please note that it may take me a while to respond since I develop this in my free time.
 
 ---INSTALLATION---
@@ -31,13 +32,13 @@ BEFORE INSTALLING TextPYOS MAKE SURE:
 
 - Make sure that "Add pip to PATH" is CHECKED.
 
-- Download the latest version of TextPYOS from [TextPYOS-DarkDev](https://github.com/DarkDevRBLX/TextPYOS-Darkdev)
+- Download the latest version of TextPYOS from [TextPYOS](https://github.com/DarkDevRBLX/TextPYOS-Darkdev) (can be found under "Python Source".)
 
 - Open terminal and run the command "pip install pyinstaller"
 
-- Then, run the command "pyinstaller --onefile TextPYOSV1.1.py" (Or whatever version you are downloading.)
+- Then, run the command "pyinstaller --onefile yourscript.py" (Replace yourscript.py with whatever version of TextPYOS you're trying to download.)
 
-- Locate the file "dist"
+- Locate the file "dist" (if you cannot try "pyinstaller yourscript.py" (Replace yourscript.py with whatever version of TextPYOS you're trying to download.)
 
 - Execute the .exe
 
