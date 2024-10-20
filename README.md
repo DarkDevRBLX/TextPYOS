@@ -22,12 +22,12 @@ Please note that it may take me a while to respond since I develop this in my fr
 ---INSTALLATION---
 
 BEFORE INSTALLING TextPYOS MAKE SURE:
+
 - Make sure to get the newest installation of python from [Python.org](https://www.python.org/downloads/)
 
 - Run custom installation.
 
 - Make sure that "Add pip to PATH" is CHECKED.
-
 
 - Download the latest version of TextPYOS from [TextPYOS-DarkDev](https://github.com/DarkDevRBLX/TextPYOS-Darkdev)
 
@@ -40,6 +40,7 @@ BEFORE INSTALLING TextPYOS MAKE SURE:
 - Execute the .exe
 
 ---Collaboration---
+
 We are currently not accepting any collaborations, as the project is simply too new to need any. Still feel free to make any changes you wish!
 
 ---THANK YOU---
