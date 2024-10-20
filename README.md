@@ -18,7 +18,7 @@ For more information, please see the [MIT LICENSE](LICENSE)
 
 If you have any questions, problems, or suggestions please feel free to reach out to me!
 
-GitHub: [My profile](https://github.com/DarkDevRBLX)
+GitHub: [DarkDevRBLX](https://github.com/DarkDevRBLX)
 
 Please note that it may take me a while to respond since I develop this in my free time.
 
@@ -38,7 +38,7 @@ BEFORE INSTALLING TextPYOS MAKE SURE:
 
 - Then, run the command "pyinstaller --onefile yourscript.py" (Replace yourscript.py with whatever version of TextPYOS you're trying to download.)
 
-- Locate the file "dist" (if you cannot find it, try "pyinstaller yourscript.py" (Replace yourscript.py with whatever version of TextPYOS you're trying to download.)
+- Locate the folder "dist" (if you cannot find it, try "pyinstaller yourscript.py" (Replace yourscript.py with whatever version of TextPYOS you're trying to download.)
 
 - Execute the .exe
 
