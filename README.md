@@ -1,15 +1,19 @@
 ---ABOUT---
+
 TextPYOS is a simpler version of older text-based operating systems. (Not an actual operating system, but gives the feel of one. Primarily MS-DOS, Linux, ect...)
 
 ---DEVELOPMENT STATUS---
+
 This project is currently in-development, but updates are likely to be infrequent due to it being developed in my free time.
 
 ---LICENSE---
+
 TextPYOS is open-source, under the MIT license.
 
 For more information, please see the [MIT LICENSE](LICENSE)
 
 ---CONTACT---
+
 If you have any questions, problems, or suggestions please feel free to reach out to me!
 
 GitHub: [My profile](https://github.com/DarkDevRBLX)
@@ -28,5 +32,9 @@ Then, run the command "pyinstaller --onefile TextPYOSV1.1.py" (Or whatever versi
 Locate the file "dist"
 and execute the .exe
 
+---Collaboration---
+We are currently not accepting any collaborations, as the project is simply too new to need any. Still feel free to make any changes you wish!
+
 ---THANK YOU---
+
 Thank you for taking interest in TextPYOS! We hope to create a user-friendly experience and to inspire others to take interest.
