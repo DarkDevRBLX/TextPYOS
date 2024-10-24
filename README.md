@@ -1,12 +1,12 @@
 # **Welcome! To the TextPYOS Community Branch!**
 This is where the community can suggest, impliment, and engague with fellow members of the community! We hope to see collaboration and and communication, and are excited to see what you can all make!
 
-## We ask that anyone who wishes to contribute, use, or maintain TextPYOS keep in mind a few things:
+## Anyone who wishes to use, maintain, or make changes to TextPYOS please remember:
 
 - TextPYOS is **not** a real operating system, but rather a modern, simple take on older ones.
 - The values of TextPYOS, to keep an engaging experience for members of the community and yourself.
 
-## Why a community branch rather than merging with the main one?
+## Why a community branch rather than merging with the main one?:
 
 For a couple of reasons:
 
