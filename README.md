@@ -1,12 +1,14 @@
 # Welcome! To TextPYOS!
 
-TextPYOS is a simpler version of older text-based operating systems. (Not an actual operating system, but gives the feel of one. Primarily MS-DOS, Linux, ect...)
+TextPYOS is a simpler version of older text-based operating systems, mostly MS-DOS, Linux, ect...
 
 ## Development status
 
 This project is currently in-development, but updates are likely to be infrequent due to it being developed in my free time.
 
 Any created versions will be uploaded. All of the uploaded versions can be found under "Python Source" to make it more organized.
+
+A community branch is still in the works.
 
 ## License
 
