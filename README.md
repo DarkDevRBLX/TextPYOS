@@ -1,20 +1,20 @@
----ABOUT---
+# Welcome! To TextPYOS!
 
 TextPYOS is a simpler version of older text-based operating systems. (Not an actual operating system, but gives the feel of one. Primarily MS-DOS, Linux, ect...)
 
----DEVELOPMENT STATUS---
+## Development status
 
 This project is currently in-development, but updates are likely to be infrequent due to it being developed in my free time.
 
 Any created versions will be uploaded. All of the uploaded versions can be found under "Python Source" to make it more organized.
 
----LICENSE---
+## License
 
 TextPYOS is open-source, under the MIT license.
 
 For more information, please see the [MIT LICENSE](LICENSE)
 
----CONTACT---
+## Contact
 
 If you have any questions, problems, or suggestions please feel free to reach out to me!
 
@@ -22,7 +22,7 @@ GitHub: [DarkDevRBLX](https://github.com/DarkDevRBLX)
 
 Please note that it may take me a while to respond since I develop this in my free time.
 
----INSTALLATION---
+## Installation
 
 BEFORE INSTALLING TextPYOS MAKE SURE:
 
@@ -42,10 +42,12 @@ BEFORE INSTALLING TextPYOS MAKE SURE:
 
 - Execute the .exe
 
----Collaboration---
+## Collaboration
 
 We are currently not accepting any collaborations, as the project is simply too new to need any. Still feel free to make any changes you wish!
 
----THANK YOU---
+#
+
+### Thank You!
 
 Thank you for taking interest in TextPYOS! We hope to create a user-friendly experience and to inspire others to take interest.
