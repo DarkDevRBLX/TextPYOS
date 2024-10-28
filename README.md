@@ -2,6 +2,8 @@
 
 TextPYOS is a simpler version of older text-based operating systems, mostly MS-DOS, Linux, ect...
 
+TextPYOS is a **full python project**, meaning that other coding languages will not be used (unless it will make it easier to do a task.)
+
 ## Development status
 
 This project is currently in-development, but updates are likely to be infrequent due to it being developed in my free time.
