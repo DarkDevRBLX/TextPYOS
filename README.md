@@ -35,7 +35,9 @@ BEFORE INSTALLING TextPYOS MAKE SURE:
 - Make sure that "Add pip to PATH" is CHECKED.
 
 - Download the latest version of TextPYOS from [TextPYOS](https://github.com/DarkDevRBLX/TextPYOS-Darkdev) (can be found under "Python Source".)
+### Installing
 
+To install:
 - Open terminal and run the command "pip install pyinstaller"
 
 - Then, run the command "pyinstaller --onefile yourscript.py" (Replace yourscript.py with whatever version of TextPYOS you're trying to download.)
