@@ -1,3 +1,8 @@
+# DEVELOPMENT STATUS UPDATE:
+I am still working on TextPYOS, I want to make it sort of modular with each application launching in its own window and having it's own separate application (If that makes sense)
+I'm also just busy with life in general at the moment, so thank you to anyone still checking for updates!
+With love, DarkDevRBLX.
+
 # Welcome! To TextPYOS!
 
 TextPYOS is a simpler version of older text-based operating systems, mostly MS-DOS, Linux, ect...
