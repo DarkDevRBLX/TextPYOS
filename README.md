@@ -45,9 +45,9 @@ BEFORE INSTALLING TextPYOS MAKE SURE:
 To install:
 - Open terminal and run the command "pip install pyinstaller"
 
-- Then, run the command "pyinstaller --onefile yourscript.py" (Replace yourscript.py with whatever version of TextPYOS you're trying to download.)
+- Then, run the command "pyinstaller --onefile yourscript.py" (Replace yourscript.py with the TextPYOS filename.)
 
-- Locate the folder "dist" (if you cannot find it, try "pyinstaller yourscript.py" (Replace yourscript.py with whatever version of TextPYOS you're trying to download.)
+- Locate the folder "dist" (if you cannot find it, try "pyinstaller yourscript.py" (Replace yourscript.py with the TextPYOS filename.)
 
 - Execute the .exe
 
