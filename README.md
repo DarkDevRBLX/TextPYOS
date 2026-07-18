@@ -1,4 +1,4 @@
-# See discussions tab for status updates.
+# This project has been abandoned for the forseeable future. Thank you for your support.
 
 # TextPYOS
 
